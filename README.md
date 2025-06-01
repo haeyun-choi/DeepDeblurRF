@@ -4,7 +4,7 @@
 [![Project Website](https://img.shields.io/badge/Project--blue)](https://haeyun-choi.github.io/DDRF_page/)
 [![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/2502.14454)
 [![Dataset](https://img.shields.io/badge/Dataset--green)](https://drive.google.com/drive/folders/12t5J8VW102c2eXuj90RY9nVw5Uyv2YQ8)
-[![Video](https://img.shields.io/badge/YouTube--red)](https://youtu.be/1RktYghRXzU)
+[![Video](https://img.shields.io/badge/Video--red)](https://youtu.be/1RktYghRXzU)
 
 **Exploiting Deblurring Networks for Radiance Fields**  
 Haeyun Choi, Heemin Yang, Janghyuk Han, Sunghyun Cho  
