@@ -4,6 +4,7 @@
 [![Project Website](https://img.shields.io/badge/Project--blue)](https://haeyun-choi.github.io/DDRF_page/)
 [![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/2502.14454)
 [![Dataset](https://img.shields.io/badge/Dataset--green)](https://drive.google.com/drive/folders/12t5J8VW102c2eXuj90RY9nVw5Uyv2YQ8)
+[![YouTube](https://img.shields.io/badge/YouTube--red)](https://youtu.be/1RktYghRXzU)
 
 **Exploiting Deblurring Networks for Radiance Fields**  
 Haeyun Choi, Heemin Yang, Janghyuk Han, Sunghyun Cho  
@@ -14,8 +15,6 @@ KT, POSTECH
 
 ## Abstract
 *In this paper, we propose DeepDeblurRF, a novel radiance field deblurring approach that can synthesize high-quality novel views from blurred training views with significantly reduced training time. DeepDeblurRF leverages deep neural network (DNN)-based deblurring modules to enjoy their deblurring performance and computational efficiency. To effectively combine DNN-based deblurring and radiance field construction, we propose a novel radiance field (RF)-guided deblurring and an iterative framework that performs RF-guided deblurring and radiance field construction in an alternating manner. Moreover, DeepDeblurRF is compatible with various scene representations, such as voxel grids and 3D Gaussians, expanding its applicability. We also present BlurRF-Synth, the first large-scale synthetic dataset for training radiance field deblurring frameworks. We conduct extensive experiments on both camera motion blur and defocus blur, demonstrating that DeepDeblurRF achieves state-of-the-art novel-view synthesis quality with significantly reduced training time.*
-
-[![Watch the video](https://img.youtube.com/vi/1RktYghRXzU/0.jpg)](https://youtu.be/1RktYghRXzU)
 
 ## News  
 [May 3, 2025] Train dataset released 🚀  
