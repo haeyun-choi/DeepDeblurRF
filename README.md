@@ -213,10 +213,12 @@ This project builds upon the following works. We thank the authors for open-sour
 If you find this work useful for your research, please consider citing:
 
 ```bibtex
-@article{choi2025exploiting,
-  title={Exploiting Deblurring Networks for Radiance Fields},
-  author={Choi, Haeyun and Yang, Heemin and Han, Janghyeok and Cho, Sunghyun},
-  journal={CVPR},
-  year={2025}
+@InProceedings{Choi_2025_CVPR,
+    author    = {Choi, Haeyun and Yang, Heemin and Han, Janghyeok and Cho, Sunghyun},
+    title     = {Exploiting Deblurring Networks for Radiance Fields},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {6012-6021}
 }
 ```
